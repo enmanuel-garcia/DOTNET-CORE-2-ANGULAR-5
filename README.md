@@ -1,0 +1,2 @@
+# DOTNET-CORE-2-ANGULAR-5
+DOTNET CORE 2 + ANGULAR with static files
